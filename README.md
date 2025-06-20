@@ -37,3 +37,4 @@ If you believe you have found a security issue, check our [Responsible Disclosur
 for details and get in touch with us via email.
 # odoos
 # odoo-real
+# aswad
